@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi! I'm a computer science student in 3rd semester
+Hi! My name is Eduardo and i'm from Brazil. I'm currently studying Computer Science at the Universidade Franciscana.
+
+# Interests:
+I'm generally interested in software development, and I'm currently focusing on building Flutter mobile apps and Python automation scripts.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-oliveira-da-fontoura-923560214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eduardoolvfont.01@gmail.com) 
