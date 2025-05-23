@@ -11,5 +11,5 @@ Hi! I'm a science computer student on 3rd semester.
 ![](https://github-readme-stats.vercel.app/api?username=edusmrs&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
 
-![Snake animation](https://github.com/edusmrs/edusmrs/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/edusmrs/edusmrs/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
